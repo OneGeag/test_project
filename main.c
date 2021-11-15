@@ -7,7 +7,6 @@
 
 #define PROG_NAME
 
-
 int
 main(int argc, char *argv[])
 {
