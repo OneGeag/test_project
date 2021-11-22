@@ -5,7 +5,7 @@
 #include <sys/stat.h>
 #include <error.h>
 
-#define PROG_NAME
+#define PROG_NAME "git functionality test"
 
 int
 main(int argc, char *argv[])
