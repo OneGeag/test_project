@@ -7,6 +7,7 @@
 
 #define PROG_NAME "git functionality test"
 
+
 int
 main(int argc, char *argv[])
 {
